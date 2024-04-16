@@ -1,11 +1,11 @@
-repo: "Dong-Wo-Long/EnhancementUnits"
+repo: "Dong-Wo-Long/SANABI-ost"
 
-name: "enhancement-units"
-displayName: "Enhancement Units"
+name: "sanabi-ost"
+displayName: "SANABI ost"
 author: "D&X"
 
-version: Exp v1.4.28 beta
-subtitle: "Improving and changing units | Exp v1.4.28 beta"
+version: v1.0.0
+subtitle: "SANABI ost | v1.0.0"
 
 minGameVersion: 146
 
