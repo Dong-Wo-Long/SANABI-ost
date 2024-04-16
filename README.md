@@ -1,2 +1,17 @@
 # SANABI-ost
-A simple collection of tracks from the SANABI game for Mindustry.
+- boss1 -
+- boss2 -
+- editor -
+- fine -
+- game1 -
+- game2 -
+- game3 -
+- game4 -
+- game5 -
+- game6 -
+- game7 -
+- game8 -
+- game9 -
+- land -
+- launch -
+- menu -
