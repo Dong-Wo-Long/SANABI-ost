@@ -5,33 +5,31 @@
 - boss2 - "The Firebird"
 
 ## Gameplay tracks:
+- fine - "The Two in a tangled"
 
-- fine - "
+- game1 - "Swimming In A Sea Of Neon Lights Part 1"
 
-- game1 - "
+- game2 - "Swimming In A Sea Of Neon Lights Part 2"
 
-- game2 - "
+- game3 - "Through the Clouds Part 1"
 
-- game3 - "
+- game4 - "Through the Clouds Part 2"
 
-- game4 - "
+- game5 - "A Little More Hostile Subway"
 
-- game5 - "
+- game6 - "JUSTICE Is Watching You"
 
-- game6 - "
+- game7 - "In The Hall of Factory King"
 
-- game7 - "
+- game8 - "A Vindication Opportunity"
 
-- game8 - "
-
-- game9 - "
+- game9 - "Meet Your Demise With Integrity, Please"
 
 ## Pre-game traks:
-
 - menu - "The Dream In Reality"
 
 - editor - "The Dream In Reality (Ambient Ver.)"
 
-- launch - "
+- launch - "A Worn Duty"
 
-- land - "
+- land - "The Rise"
