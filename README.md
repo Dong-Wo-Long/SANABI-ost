@@ -1,9 +1,10 @@
 # SANABI-ost
+## Boss tracks:
 - boss1 - "Someone Whoí»s Got Chops"
 
 - boss2 - "The Firebird"
 
-- editor - "The Dream In Reality (Ambient Ver.)"
+## Gameplay tracks:
 
 - fine - "
 
@@ -25,8 +26,12 @@
 
 - game9 - "
 
-- land - "
+## Pre-game traks:
+
+- menu - "The Dream In Reality"
+
+- editor - "The Dream In Reality (Ambient Ver.)"
 
 - launch - "
 
-- menu - "The Dream In Reality"
+- land - "
