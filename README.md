@@ -25,7 +25,7 @@
 
 - game9 - "Meet Your Demise With Integrity, Please"
 
-## Pre-game traks:
+## Pre-game tracks:
 - menu - "The Dream In Reality"
 
 - editor - "The Dream In Reality (Ambient Ver.)"
