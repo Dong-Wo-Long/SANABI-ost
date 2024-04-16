@@ -4,8 +4,8 @@ name: "sanabi-ost"
 displayName: "SANABI ost"
 author: "D&X"
 
-version: v1.0.0
-subtitle: "SANABI Music pack | v1.0.0"
+version: v1.0.1
+subtitle: "SANABI Music pack | v1.0.1"
 
 minGameVersion: 146
 
