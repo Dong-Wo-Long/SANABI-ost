@@ -11,4 +11,4 @@ minGameVersion: 146
 
 hideBrowser: false
 
-hidden: false
+hidden: true
