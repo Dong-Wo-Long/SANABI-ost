@@ -1,4 +1,5 @@
 # SANABI-ost
+![SANABI-ost](https://github.com/Dong-Wo-Long/SANABI-ost/blob/main/icon.png)
 ## Boss tracks:
 - boss1 - "Someone Whoí»s Got Chops"
 
